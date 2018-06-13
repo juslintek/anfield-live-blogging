@@ -1,6 +1,6 @@
-=== Live Blogging Plus ===
+=== Anfield Live Blogging ===
 Contributors: vidyut, chrisnorthwood, cheche
-Donate link: http://vidyut.net/
+Donate link: http://github.com/juslintek/
 Tags: live, micro, JavaScript, blogging, event, automatic updating, auto updating
 Requires at least: 4.4
 Tested up to: 4.9.5
